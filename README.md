@@ -9,7 +9,6 @@ SonicAi is a platform featuring multiple AI agents to help users transact tokens
 
 The platform leverages AI agents built using LangChain and LangGraph to analyze market data, execute trades, and automate tasks without unnecessary user intervention. Agents collaborate autonomously to complete tasks efficiently, ensuring seamless execution while keeping technical complexities hidden from the user.
 
-Features
 ## Features
 1. Market Analysis Agent: Analyzes market data to establish casts and memes on warpast 
 2. Trade Execution Agent: Executes trades like swapping tokens, lending, creating liquidity pools,get balance,deploy NFTs,and Bridging tokens and many more using Zerepy
