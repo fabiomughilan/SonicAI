@@ -1,4 +1,4 @@
-# ZerePy
+# SonicAI
 
 ZerePy is an open-source Python framework designed to let you deploy your own agents on X, powered by multiple LLMs.
 
