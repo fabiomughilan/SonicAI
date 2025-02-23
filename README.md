@@ -392,10 +392,3 @@ Use `help` in the CLI to see all available commands. Key commands include:
 - `chat`: Start interactive chat with agent
 - `clear`: Clear the terminal screen
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=blorm-network/ZerePy&type=Date)](https://star-history.com/#blorm-network/ZerePy&Date)
-
----
-
-Made with ♥ @Blorm.xyz
