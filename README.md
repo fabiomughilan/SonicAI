@@ -1,48 +1,21 @@
 # SonicAI
 
-ZerePy is an open-source Python framework designed to let you deploy your own agents on X, powered by multiple LLMs.
+SonicAi - Ease of money.
 
-ZerePy is built from a modularized version of the Zerebro backend. With ZerePy, you can launch your own agent with
-similar core functionality as Zerebro. For creative outputs, you'll need to fine-tune your own model.
+An AI agent designed to seamlessly create tokens, establish casts based on the latest sonic trends, streamline transactions, and promote on-chain actions on Sonic 
 
+## Description
+SonicAi is a platform featuring multiple AI agents to help users transact tokens on Sonic Ecosystem The main aim of the platform is to provide users with profitable opportunities through various DeFi operations such as swapping tokens, get balance, deploy NFTs, approving ERC20 tokens, and more.
+
+The platform leverages AI agents built using LangChain and LangGraph to analyze market data, execute trades, and automate tasks without unnecessary user intervention. Agents collaborate autonomously to complete tasks efficiently, ensuring seamless execution while keeping technical complexities hidden from the user.
+
+Features
 ## Features
-
-### Core Platform
-
-- CLI interface for managing agents
-- Modular connection system
-- Blockchain integration
-
-### Platform Integrations
-- Social Platforms:
-  - Twitter/X
-  - Farcaster
-  - Echochambers
-  - Discord
-- Blockchain Networks:
-  - Solana
-  - EVM Networks:
-    - Ethereum
-    - Sonic 
-    - Generalized EVM Connection supporting Base, Polygon, and Ethereum
-      - Easily add whichever else
-- AI/ML Tools:
-  - GOAT (Onchain Agent Toolkit)
-  - Allora (Network inference)
-
-### Language Model Support
-
-- OpenAI
-- Anthropic
-- EternalAI
-- Ollama
-- Hyperbolic
-- Galadriel
-- Allora
-- xAI (Grok)
-- GROQ API
-- Together AI
-
+1. Market Analysis Agent: Analyzes market data to establish casts and memes on warpast 
+2. Trade Execution Agent: Executes trades like swapping tokens, lending, creating liquidity pools,get balance,deploy NFTs,and Bridging tokens and many more using Zerepy
+3. The LLM model used is Allora(Network inference) and Together AI 
+4. Modular and Scalable: Easily integrate new agents (e.g., Discord, Telegram, analytics) without restructuring workflows.
+   
 ## Quickstart
 
 The quickest way to start using ZerePy is to use our Replit template:
